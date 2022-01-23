@@ -1,0 +1,111 @@
+body{
+  font-size: 30px;
+  margin: 0;
+  padding:0;
+  background: black;
+  color: #fff;
+}
+header{
+overflow: hidden;
+border: 5px solid black;
+padding: 10px 5px;
+margin-bottom: 10px;
+}
+
+.logo {
+  height: 50px;
+  width: 20%;
+  border: 5px solid red;
+  float: left;
+  font-size: 30px;
+  text-align: center;
+}
+
+.menu {
+  height: 50px;
+  width: 70%;
+  border: 5px solid red;
+  float: right;
+  font-size: 30px;
+  text-align: center;
+}
+
+.banner {
+overflow: hidden;
+border: 5px solid black;
+padding: 10px 5px;
+}
+
+.contact {
+  height: 500px;
+  width:55%;
+  border: 5px solid red;
+  float: left;
+  font-size: 30px;
+  text-align: center;
+}
+
+.blog {
+  height: 500px;
+  width: 40%;
+  border: 5px solid red;
+  float: right;
+  text-align: center;
+  
+}
+
+
+.services {
+  overflow: hidden;
+  margin: 20px 0px;
+}
+
+.sevicebox {
+  height: 200px;
+  width:22% ;
+  float: left;
+  border: 5px solid red;
+  margin: 10px;
+  text-align: center;
+}
+
+
+.idea{
+  overflow: hidden;
+  margin: 10px 5px;
+  text-align: center;
+}
+.idea-image{
+  height: 500px;
+  width: 50%;
+  border: 5px solid red;
+  float: left;
+}
+.idea-text{
+  height:500px;
+  width: 40%;
+  border: 5px solid red;
+  float: right;
+}
+footer{
+
+ overflow: hidden;
+}
+.f-box{
+  height: 200px;
+  width: 22%;
+  margin: 10px;
+  border: 5px solid red;
+  float: left;
+  text-align: center;
+}
+.tag a{
+  font-size: 20px;
+  background: red;
+  display: inline;
+  padding: 10px 40px;
+  margin: 20px;
+  border-radius: 50px;
+  color:#fff;
+  text-decoration: none;
+}
